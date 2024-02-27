@@ -11,7 +11,7 @@ Welcome to my portfolio repository! This single-page application is built using 
 ### <span style="color:#4caf50">Project Showcase</span>
    - Explore my projects with live links to see them in action. Each project is accompanied by a brief description highlighting its key features and technologies used.
      
-### <span style="color:#4caf50">3Download CV</span>
+### <span style="color:#4caf50">Download CV</span>
    - Easily download my CV directly from the portfolio. Stay updated with my latest accomplishments and qualifications.
 
 ### <span style="color:#4caf50">Education & Work Experience</span>

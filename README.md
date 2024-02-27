@@ -5,7 +5,7 @@ Welcome to my portfolio repository! This single-page application is built using 
 ## <span style="color:#6e5494">Features</span>
 
 ### <span style="color:#4caf50">1. Responsive Design</span>
-   - The portfolio is crafted with a responsive layout, ensuring optimal viewing experience across various devices, including desktops, tablets, and smartphones.
+   - The portfolio is crafted with a responsive layout, ensuring optimal viewing experience across various software tools and platforms.
      
 ### <span style="color:#4caf50">2. Project Showcase</span>
    - Explore my projects with live links to see them in action. Each project is accompanied by a brief description highlighting its key features and technologies used.
@@ -20,7 +20,7 @@ Welcome to my portfolio repository! This single-page application is built using 
    - View my skill set and expertise in various technologies, frameworks, and tools. Get an overview of my proficiency level in each area.
 
 ### <span style="color:#4caf50">6. Social Media Integration</span>
-   - Connect with me on various social media platforms. Stay updated with my latest projects, articles, and industry insights.
+   - Connect with me on various social media platforms. Stay updated with my latest projects and industry insights.
 
 ## <span style="color:#6e5494">Technologies Used</span>
 
@@ -36,7 +36,7 @@ Welcome to my portfolio repository! This single-page application is built using 
 
 1. **Clone the project repository**:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/khizraghaffarkk/Portfolio.git
 2. **Navigate to the project directory**:
    ```bash
    cd your-portfolio

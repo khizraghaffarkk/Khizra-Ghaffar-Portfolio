@@ -19,7 +19,7 @@ Welcome to my portfolio repository! This single-page application is built using 
 ### <span style="color:#4caf50">Skills</span>
    - View my skill set and expertise in various technologies, frameworks, and tools. Get an overview of my proficiency level in each area.
 
-### <span style="color:#4caf50">6. Social Media Integration</span>
+### <span style="color:#4caf50">Social Media Integration</span>
    - Connect with me on various social media platforms. Stay updated with my latest projects and industry insights.
 
 ## <span style="color:#6e5494">Technologies Used</span>

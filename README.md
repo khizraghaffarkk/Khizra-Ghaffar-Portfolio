@@ -6,10 +6,8 @@ Welcome to my portfolio repository! This single-page application is built using 
 
 ### <span style="color:#4caf50">1. Responsive Design</span>
    - The portfolio is crafted with a responsive layout, ensuring optimal viewing experience across various devices, including desktops, tablets, and smartphones.
-
 ### <span style="color:#4caf50">2. Project Showcase</span>
    - Explore my projects with live links to see them in action. Each project is accompanied by a brief description highlighting its key features and technologies used.
-
 ### <span style="color:#4caf50">3. Download CV</span>
    - Easily download my CV directly from the portfolio. Stay updated with my latest accomplishments and qualifications.
 

@@ -2,7 +2,7 @@
 
 # <div style="text-align: justify;">
 Welcome to my portfolio repository! This single-page application is built using ReactJS to showcase my skills, projects, education, and work experience. It's designed to provide a comprehensive overview of my professional background and expertise.
-# </div>
+
 ## <span style="color:#6e5494">Features</span>
 
 ### <span style="color:#4caf50">Responsive Design</span>

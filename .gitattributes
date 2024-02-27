@@ -1,0 +1,3 @@
+*.js linguist-detect=true
+*.jsx linguist-detect=true
+

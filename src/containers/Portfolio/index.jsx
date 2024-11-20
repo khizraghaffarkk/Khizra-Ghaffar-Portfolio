@@ -35,8 +35,11 @@ import EC from "../../images/ec.avif";
 import Career from "../../images/career.png";
 import MongoDb from "../../images/mongo.png";
 import Expense from "../../images/expense.jpg";
-
-
+import ChatB from "../../images/chatbots.webp"
+import ache from "../../images/certi.jpg"
+import azu from "../../images/az.webp"
+import ci from "../../images/ci.png"
+import rob from "../../images/rob.jpg"
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./style.scss";
@@ -164,6 +167,18 @@ const portfolioData = [
   },
   {
     id: 5,
+    name: "Azure CI/CD with AKS",
+    image: ci,
+    link: "https://github.com/khizraghaffarkk/Azure-DevOps-CI-CD-Pipeline-Project-with-SonarQube-and-AKS.git",
+  },
+  {
+    id: 5,
+    name: "Azure_DevOps_CI-CD",
+    image: azu,
+    link: "https://github.com/khizraghaffarkk/Azure_DevOps_CI-CD_Project.git",
+  },
+  {
+    id: 5,
     name: "Docker Basics",
     image: Docker,
     link: "https://github.com/khizraghaffarkk/Docker-Basis",
@@ -194,6 +209,18 @@ const portfolioData = [
   },
   {
     id: 6,
+    name: "Chatbot-Deployment",
+    image: ChatB,
+    link: "https://github.com/khizraghaffarkk/Streamlit-Chatbot-Deployment.git",
+  },
+  {
+    id: 6,
+    name: "Certificate-Viewer-Flask",
+    image: ache,
+    link: "https://github.com/khizraghaffarkk/Certificate_Viewer.git",
+  },
+  {
+    id: 6,
     name: "Text Summerization App",
     image: TextS,
     link: "https://github.com/khizraghaffarkk/Python-Project",
@@ -216,24 +243,18 @@ const portfolioData = [
     image: MongoDb,
     link: "https://github.com/khizraghaffarkk/MongoDB-Schema-Designing",
   },
+  {
+    id: 9,
+    name: "InsuranceRobotCICD",
+    image: rob,
+    link: "https://github.com/khizraghaffarkk/InsuranceRobotCICD.git",
+  },
 ];
 
 const filterData = [
   {
     filterId: 1,
     label: "All",
-  },
-  {
-    filterId: 2,
-    label: "Web Developement",
-  },
-  {
-    filterId: 3,
-    label: "Web API",
-  },
-  {
-    filterId: 4,
-    label: "Express JS",
   },
   {
     filterId: 5,
@@ -244,12 +265,28 @@ const filterData = [
     label: "Python",
   },
   {
+    filterId: 2,
+    label: "Web Development",
+  },
+  {
+    filterId: 3,
+    label: "Web APIs",
+  },
+  {
+    filterId: 4,
+    label: "Express JS",
+  },
+  {
     filterId: 7,
     label: "Design",
   },
   {
     filterId: 8,
     label: "Database",
+  },
+  {
+    filterId: 9,
+    label: "Automation",
   }
 ];
 

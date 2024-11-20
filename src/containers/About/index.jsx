@@ -3,9 +3,15 @@ import { BsInfoCircleFill } from "react-icons/bs";
 import { Animate } from "react-simple-animate";
 import PageHeader from "../../components/pageHeaderContent";
 import './style.scss';
-import {DiApple,DiWebplatform} from 'react-icons/di';
-import {FaDev,FaDatabase, FaPython} from 'react-icons/fa';
+import {DiWebplatform} from 'react-icons/di';
+import {FaDev,FaDatabase, FaPython, FaCuttlefish, FaJsSquare} from 'react-icons/fa';
+import { SiAmazonaws, SiTensorflow } from 'react-icons/si'; 
+import { AiOutlineGithub } from 'react-icons/ai';
 
+import { AiOutlineRobot } from 'react-icons/ai'; // Robot icon for AI
+import { BiBrain } from 'react-icons/bi'; // Brain icon for Machine Learning
+
+import { FaCogs } from 'react-icons/fa';
 const About = () => {
   const personalDetails = [
     {
@@ -14,11 +20,11 @@ const About = () => {
     },
     {
       label: "Phone Number",
-      value: "+358 41 720 7828",
+      value: "+358 41 5779323",
     },
     {
       label: "Email",
-      value: "khghaffa23@student.oulu.fi",
+      value: "khizraghaffar1300@gmail.com",
     },
     {
       label: "Address",
@@ -30,7 +36,7 @@ const About = () => {
     },
   ];
   const jobSummary =
-    "I am deeply passionate about the intricate process of designing and testing software applications. My goal is to keep getting better, grab every chance to learn, and do great in the competitive professional world. I truly believe that improving these skills will not only help me grow personally but also take my professional journey to new heights, driving me towards excellence and innovation in the exciting world of software development.";
+    "I am a Software Engineer with a passion for programming, test automation, artificial intelligence, and cloud technologies. I am actively seeking exciting opportunities in the software development field to further refine my skills and thrive in a competitive environment. With a Master’s in Information Processing Science from the University of Oulu and extensive hands-on experience, I have developed a strong foundation in testing, automation, data analytics, machine learning, and DevOps methodologies. Proficient in Python and C++, I have expertise in workflow automation and am comfortable working with Linux, Windows Subsystem for Linux (WSL), and Windows. Throughout my career, I have focused on enhancing AI capabilities, improving development processes, and optimizing testing and automation environments. I am eager to contribute my skills to innovative projects in dynamic and forward-thinking environments.";
 
   return (
     <section id="about" className="about">
@@ -88,10 +94,10 @@ const About = () => {
             }}
           >
           <div className="about__content__servicesWrapper__innerContent">
-            <div><DiWebplatform size={60} color="var(--yellow-theme-main-color)"/></div>
+            <div><FaCogs size={60} color="var(--yellow-theme-main-color)" /></div>
+            <div><SiAmazonaws size={60} color="var(--yellow-theme-main-color)"/></div> {/* Cloud (AWS) */}
             <div><FaDev size={60} color="var(--yellow-theme-main-color)"/></div>
-            <div><FaDatabase size={60} color="var(--yellow-theme-main-color)"/></div>
-            <div><FaPython size={60} color="var(--yellow-theme-main-color)"/></div>
+            <div><FaPython size={60} color="var(--yellow-theme-main-color)"/></div> 
           </div>
           </Animate>
         </div>

@@ -49,7 +49,9 @@ const Resume = ()=>{
                       {item.edate}
                     </h4>
                   </div>
-                  <p className="vertical-timeline-element-title-wrapper-desc">{item.description}</p>
+                   {/* Render the description as HTML */}
+                <div className="vertical-timeline-element-title-wrapper-desc" dangerouslySetInnerHTML={{ __html: item.description }} />
+                  
                 </VerticalTimelineElement>
               ))
             }
@@ -89,7 +91,8 @@ const Resume = ()=>{
                       {item.edate}
                     </h4>
                   </div>
-                  <p className="vertical-timeline-element-title-wrapper-desc">{item.description}</p>
+                  {/* Render the description as HTML */}
+                <div className="vertical-timeline-element-title-wrapper-desc" dangerouslySetInnerHTML={{ __html: item.description }} />
                 </VerticalTimelineElement>
               ))
             }

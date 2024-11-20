@@ -11,7 +11,19 @@ export const skillsData = [
         percentage: "100",
       },
       {
+        skillName: "PyTorch",
+        percentage: "100",
+      },
+      {
+        skillName: "TensorFlow",
+        percentage: "100",
+      },
+      {
         skillName: "JavaScript",
+        percentage: "100",
+      },
+      {
+        skillName: "TypeScript",
         percentage: "100",
       },
       {
@@ -29,16 +41,32 @@ export const skillsData = [
       {
         skillName: "React JS",
         percentage: "100",
-      },
-      {
-        skillName: "JavaScript",
-        percentage: "100",
-      },
+      }
     ],
   },
   {
     label: "Frameworks & Databases",
     data: [
+      {
+        skillName: "Robot-Framework",
+        percentage: "100",
+      },
+      {
+        skillName: "Flask",
+        percentage: "100",
+      },
+      {
+        skillName: "LangChain",
+        percentage: "100",
+      },
+      {
+        skillName: "LLamaIndex",
+        percentage: "100",
+      },
+      {
+        skillName: "Bootstrap",
+        percentage: "100",
+      },
       {
         skillName: "Bootstrap",
         percentage: "100",
@@ -67,6 +95,10 @@ export const skillsData = [
         skillName: "MySQL",
         percentage: "100",
       },
+      {
+        skillName: "MongoDB",
+        percentage: "100",
+      },
     ],
   },
   {
@@ -78,6 +110,42 @@ export const skillsData = [
       },
       {
         skillName: "Kubernetes",
+        percentage: "100",
+      },
+      {
+        skillName: "Virtual Machines",
+        percentage: "100",
+      },
+      {
+        skillName: "Microsoft Azure",
+        percentage: "100",
+      },
+      {
+        skillName: "Azure DevOps",
+        percentage: "100",
+      },
+      {
+        skillName: "Amazon Web Services",
+        percentage: "100",
+      },
+      {
+        skillName: "Azure Kubernetes Services",
+        percentage: "100",
+      },
+      {
+        skillName: "CI/CD",
+        percentage: "100",
+      },
+      {
+        skillName: "Terraform",
+        percentage: "100",
+      },
+      {
+        skillName: "Ansible",
+        percentage: "100",
+      },
+      {
+        skillName: "GitLab",
         percentage: "100",
       },
       {

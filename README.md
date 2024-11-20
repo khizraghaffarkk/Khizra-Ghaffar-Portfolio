@@ -49,4 +49,4 @@ Welcome to my portfolio repository! This single-page application is built using 
    npm start
 
 <span style="color:#6e5494">Live Link</span>
-Explore my portfolio live: https://khizra_ghaffar_portfolio.surge.sh/
+Explore my portfolio live: https://khizra-portfolio.surge.sh/
